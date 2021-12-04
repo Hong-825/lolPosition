@@ -1,0 +1,11 @@
+<div class="result">
+   <h1>주 포지션</h1>
+    <h2>서폿</h2>
+    <img src='img/sup.png'>
+    "CS 안 먹음?"<br>
+    "걍 로밍감"<br>
+    "딜 좀 똑바로 넣으셈"
+</div>
+<div class='answer' onclick="reset()">
+    테스트 다시 하기
+</div>

@@ -1,0 +1,12 @@
+<div class='number'>
+        3
+</div>
+<div class='questions'>
+        CS에 집착하는가?
+</div>
+<div class='answer' onclick="cgPage('quiz4'); score(3,1,4,5,1)">
+        Yes! 분당 cs 챙겨야 함
+</div>
+<div class='answer' onclick="cgPage('quiz4'); score(3,4,2,1,5)">
+        No! 다른 게 더 중요
+</div>

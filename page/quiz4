@@ -1,0 +1,12 @@
+<div class='number'>
+        4
+</div>
+<div class='questions'>
+        라인전은 혼자가 편하다
+</div>
+<div class='answer' onclick="cgPage('quiz5'); score(5,2,2,1,2)">
+        Yes! 걸리적거려
+</div>
+<div class='answer' onclick="cgPage('quiz5'); score(1,4,3,5,5)">
+        No! 롤은 팀게임
+</div>

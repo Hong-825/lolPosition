@@ -1,0 +1,11 @@
+<div class="result">
+   <h1>주 포지션</h1>
+    <h2>원딜</h2>
+    <img src='img/bot.png'>
+    "저 좀 지켜주셈"<br>
+    "아 상대 못하는데"<br>
+    "로밍 좀 그만 가"
+</div>
+<div class='answer' onclick="reset()">
+    테스트 다시 하기
+</div>

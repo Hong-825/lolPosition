@@ -1,0 +1,12 @@
+<div class='number'>
+        5
+</div>
+<div class='questions'>
+        버스탈 때가 제일 좋다
+</div>
+<div class='answer' onclick="cgPage('quiz6'); score(4,3,1,1,5)">
+        Yes! 기사님 오라이~
+</div>
+<div class='answer' onclick="cgPage('quiz6'); score(3,2,4,4,1)">
+        No! 운전대는 내가 잡는다
+</div>

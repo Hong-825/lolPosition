@@ -1,0 +1,12 @@
+<div class='number'>
+        1
+</div>
+<div class='questions'>
+        팀의 승리보다 내 솔킬이 더 중요하다?
+</div>
+<div class='answer' onclick="cgPage('quiz2'); score(5,2,4,4,1)">
+        Yes! 전설의 출현
+</div>
+<div class='answer' onclick="cgPage('quiz2'); score(1,4,2,2,5)">
+        No! 티어 올려야 돼
+</div>

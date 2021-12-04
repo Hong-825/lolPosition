@@ -1,0 +1,11 @@
+<div class="result">
+   <h1>주 포지션</h1>
+    <h2>미드</h2>
+    <img src='img/mid.png'>
+    "블루 안 줌?"<br>
+    "아 미드 미아라고!"<br>
+    "상대 노스펠"
+</div>
+<div class='answer' onclick="reset()">
+    테스트 다시 하기
+</div>

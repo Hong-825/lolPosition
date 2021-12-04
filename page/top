@@ -1,0 +1,16 @@
+<div class="result">
+   <h1>주 포지션</h1>
+    <h2>탑</h2>
+    <img src='img/top.png'>
+    "우리 정글 뭐함?"<br>
+    "타워 먼저 밀음 ㅅㄱ"<br>
+    "오면 땀"
+</div>
+<div class='answer' onclick="reset()">
+    테스트 다시 하기
+</div>
+
+ 
+ 
+ 
+ 

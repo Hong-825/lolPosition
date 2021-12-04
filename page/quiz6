@@ -1,0 +1,12 @@
+<div class='number'>
+        6
+</div>
+<div class='questions'>
+        내가 키운 우리 팀이 잘하면 뿌듯하다
+</div>
+<div class='answer' onclick="cgPage('quiz7'); score(2,4,1,1,5)">
+        Yes! 이게 부모마음일까?
+</div>
+<div class='answer' onclick="cgPage('quiz7'); score(3,2,5,5,1)">
+        No! 나를 키워라
+</div>

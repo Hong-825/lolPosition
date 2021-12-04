@@ -1,0 +1,12 @@
+<div class='number'>
+        2
+</div>
+<div class='questions'>
+        킬을 뺏기면 화가 난다
+</div>
+<div class='answer' onclick="cgPage('quiz3'); score(2,3,5,5,1)">
+        Yes! 게임은 내가 캐리한다
+</div>
+<div class='answer' onclick="cgPage('quiz3'); score(2,3,2,1,5)">
+        No! 땃으면 그만
+</div>
